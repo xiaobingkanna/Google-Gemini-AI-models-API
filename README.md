@@ -3,6 +3,10 @@ It's just learning and entertainment.
 新发布的开源免费模型
 搞来玩玩
 
+
+API申请地址：https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmakersuite.google.com%2Fapp%2Fapikey&ifkv=ASKXGp2nsrYh8cRh5sV8mC_59u0Xe7hMx4qj8v_C8v-_U-j8N0XduJpYlw-tUiPeRt1cRFwVI_w&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-284386257%3A1702918103998088&theme=glif
+
+
 代码解释
 
 
